@@ -1,7 +1,7 @@
 # lab7web
-# NAMA : MOHAMAD HEGAR SUKMANA WIBOWO
+# NAMA : Yudha Purnama Putra
 # KELAS : TI.22.A.3
-# NIM : 312210332
+# NIM : 312210352
 
 ## Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
